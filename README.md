@@ -10,7 +10,7 @@ by Azwar Riyadh
   ```
   copy .env.example .env
   ```
-- Run the development server to view ganti dengan
+- Run the development server to view dengan
   command:
   ```
   npm start
